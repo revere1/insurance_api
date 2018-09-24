@@ -1,0 +1,41 @@
+{
+  "development": {
+    "username": "root",
+    "password": null,
+    "database": "insurance",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": null,
+    "database": "insurance",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": null,
+    "database": "insurance",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+    "system":{
+    "jwt_expire": "24h",
+    "port":1332,
+    "domain": "https://api.revereresearch.co.uk/",
+    "api_endpoint":"https://api.revereresearch.co.uk/v1/",
+    "jwt_secretkey":"globalequityesearchandrevere",
+    "salt":8,
+    "frontend_url":"https://www.revereresearch.co.uk/",
+    "revere_support_email" : "info@globalequityresearch.co.uk",
+    "ES_INDEX_PREFIX" : "revere_",
+    "ES_INDEX_USERS" : "users",
+    "ES_INDEX_TICKERS" : "tickers",
+    "ES_INDEX_INSIGHTS" : "insights",
+    "INS_PUB" :"published",
+    "INS_SEC_CUR":"currency",
+    "INS_SEC_IND":"industry",
+    "INS_SEC_ECO":"economic"
+  }
+}

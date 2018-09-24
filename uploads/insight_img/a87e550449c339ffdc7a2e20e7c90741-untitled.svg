@@ -1,0 +1,70 @@
+<svg class="ngx-charts" width="583" height="300" style="baseline-shift: 0px; clip-rule: nonzero; color: rgb(102, 102, 102); color-interpolation: sRGB; color-interpolation-filters: linearRGB; color-rendering: auto; cursor: auto; direction: ltr; display: block; fill: rgb(0, 0, 0); fill-opacity: 1; fill-rule: nonzero; font: 300 100% 16px/22.4px Roboto, sans-serif; image-rendering: auto; letter-spacing: 0.16px; marker: none; overflow: hidden; paint-order: fill; pointer-events: auto; shape-rendering: auto; stroke: none; stroke-dasharray: none; stroke-dashoffset: 0px; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 4; stroke-opacity: 1; stroke-width: 1px; text-anchor: start; text-decoration: none solid rgb(102, 102, 102); text-rendering: optimizeLegibility; visibility: visible; word-spacing: 0px; writing-mode: horizontal-tb;" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+        
+      <g class="bar-chart chart" transform="translate(60 , 10)" style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+        <!--bindings={
+  "ng-reflect-ng-if": "true"
+}--><g class="ng-star-inserted" style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+    <g class="x axis" transform="translate(0,250)" style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+      <!--bindings={
+  "ng-reflect-ng-if": "function scale(d) {\n    var ke"
+}--><g class="ng-star-inserted" style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+    <g style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+      <!--bindings={
+  "ng-reflect-ng-for-of": ""
+}-->
+    </g>
+
+    <!--bindings={
+  "ng-reflect-ng-for-of": ""
+}-->
+  </g>
+      <!--bindings={
+  "ng-reflect-ng-if": "true"
+}--><g class="ng-star-inserted" style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+    <text stroke-width="0.01" text-anchor="middle" x="254" y="30" transform="" style="baseline-shift: 0px; display: block; fill: rgb(160, 170, 190); paint-order: fill; stroke-width: 0.01px; text-anchor: middle; text-decoration: none solid rgb(102, 102, 102);">
+      Country
+    </text>
+  </g>
+    </g>
+  </g>
+        <!--bindings={
+  "ng-reflect-ng-if": "true"
+}--><g class="ng-star-inserted" style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+    <g class="y axis" transform="translate(-5 , 0)" style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+      <!--bindings={
+  "ng-reflect-ng-if": "function scale(x) {\n    return"
+}--><g class="ng-star-inserted" style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+    <g style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+      <!--bindings={
+  "ng-reflect-ng-for-of": ""
+}-->
+    </g>
+
+    <!--bindings={
+  "ng-reflect-ng-if": "false"
+}-->
+    <!--bindings={
+  "ng-reflect-ng-for-of": ""
+}-->
+
+    <!--bindings={}-->
+  </g>
+
+      <!--bindings={
+  "ng-reflect-ng-if": "true"
+}--><g class="ng-star-inserted" style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+    <text stroke-width="0.01" text-anchor="middle" x="-122.5" y="-30" transform="rotate(270)" style="baseline-shift: 0px; display: block; fill: rgb(160, 170, 190); paint-order: fill; stroke-width: 0.01px; text-anchor: middle; text-decoration: none solid rgb(102, 102, 102);">
+      GDP Per Capita
+    </text>
+  </g>
+    </g>
+  </g>
+        <g class="ng-tns-c11-1" style="baseline-shift: 0px; paint-order: fill; text-decoration: none solid rgb(102, 102, 102);">
+    <!--bindings={
+  "ng-reflect-ng-for-of": "",
+  "ng-reflect-ng-for-track-by": "function (index, bar) {\r\n     "
+}-->
+  </g>
+      </g>
+    
+      </svg>
